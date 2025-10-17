@@ -1,0 +1,12 @@
+﻿  Vector.cpp
+D:\OS_practise\Libs_Task1\Vector\Vector.h(16,29): warning C4251: 'VectorSpace::Vector::x': 'NumberSpace::Number' needs to have dll-interface to be used by clients of 'VectorSpace::Vector'
+  (compiling source file '/Vector.cpp')
+      D:\OS_practise\Libs_Task1\Number\Number.h(7,11):
+      see declaration of 'NumberSpace::Number'
+  
+D:\OS_practise\Libs_Task1\Vector\Vector.h(17,29): warning C4251: 'VectorSpace::Vector::y': 'NumberSpace::Number' needs to have dll-interface to be used by clients of 'VectorSpace::Vector'
+  (compiling source file '/Vector.cpp')
+      D:\OS_practise\Libs_Task1\Number\Number.h(7,11):
+      see declaration of 'NumberSpace::Number'
+  
+  Vector.vcxproj -> D:\OS_practise\Libs_Task1\x64\Debug\Vector.dll
