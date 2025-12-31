@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+D:\Прога\OS_labs\Matrix_Lab_W\Matrix_Lab_W\Matrix.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+  Matrix_Lab_W.vcxproj -> D:\Прога\OS_labs\Matrix_Lab_W\x64\Debug\Matrix_Lab_W.exe
